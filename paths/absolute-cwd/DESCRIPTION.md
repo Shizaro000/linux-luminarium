@@ -14,5 +14,5 @@ As an aside, now you can see what the `~` was in the prompt!
 It shows the current path that your shell is located at.
 
 This challenge will require you to execute the `/challenge/run` program from a specific path (which it will tell you).
-You'll need to `cd` to that directory before rerunning the challenge program.
-Good luck!
+You'll need to `cd`n        to that directory before rerunning the challenge program.
+Good luck!             
